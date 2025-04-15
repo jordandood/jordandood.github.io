@@ -46,4 +46,13 @@
 - Coauthored a Preliminary Design Review structured around utilizing the volatiles present in the regolith of the Permanently Shadowed Regions (PSRs) on the Moon
 - Designed the science mission and payload instrumentation to find and characterize polar volatiles within the area surrounding the Amundsen crater
 - Final PDR
-- <embed src="https://jordandood.github.io/pdr.pdf" type="application/pdf" />
+
+**7th Annual Biomedical Engineering Society Make-a-thon** *(January 2021)*
+- Collaborated with a team of 6 to designed a winning medical device to keep track of medication dosing using a gumball-like mechanism, incorporating both manufacturability and functionality. 
+- Designed the walls to connect easily with each other using a Lego-type design, allowing each wall to be easily laser cut as well as the entire assembly of the product to be made by hand in under 15 minutes with basic tools.
+- Incorporated a dial mechanism with the days of the week printed onto it that would turn every time a button was pressed, with a window on the side of the device to allow the user to see the current day of the week.
+
+## Awards
+- **Fonds de recherche du Québec - Nature et technologies, Master’s Training Scholarships Recipient** *(2023)*
+- **American Society of Agricultural and Biological Engineers, 2024 Annual International Meeting Student Presentation Award** *(2024)*
+
