@@ -1,23 +1,34 @@
 # Controlled Environment Engineer
 
 #### Technical Skills
-- Hydroponic cultivation of lettuce
-- Photosynthetic measurements (LI-6800) 
-- Coding Languages: Python, MATLAB, R
-- CAD Programs: SolidWorks, Onshape, Solid Edge, Fusion 360
+- Controlled Environment Agriculture: Expertise in designing, managing, and optimizing hydroponic systems and growth chambers for   plant research.
+- Photosynthetic Gas Exchange: Proficient in operating LI-6800 systems for measuring photosynthesis, transpiration, and stomatal conductance.
+- Programming Languages: Skilled in Python, MATLAB, and R for data analysis, automation, and modeling applications.
+- CAD & 3D Design: Experienced with SolidWorks, Onshape, Solid Edge, and Fusion 360 for mechanical design and prototyping.
 
 ## Education					       		
 - M.S.c, Bioresource Engineering	| McGill University (_November 2025_)	 			        		
 - B.S., Biological Systems Engineering | University of California, Davis (_June 2023_)
 
-## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+# Controlled Environment Research
+**Biomass Production Lab, Optimizing Lettuce Growth in Controlled High-Humidity Environments, Montréal**
+- Led a study on the effects of light spectrum and air velocity on tipburn occurrence in hydroponically grown lettuce under elevated humidity conditions (>70% RH) (results to be published)
+- Designed, built, and optimized controlled-environment plant growth chambers to regulate temperature, humidity, and CO₂ concentration within ±5% of set values
+- Conducted in situ photosynthetic gas exchange measurements, capturing real-time physiological responses of plants
+- Utilized R and Python to streamline data processing and perform statistical analyses for comprehensive evaluation of plant response
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+
+
+## Prior Engineering Experience
+**Research Assistant, Improving Child Safety in ATVs, Safe Ag Lab, Davis, California** *(April 2021 - September 2023)*
+- Created accurate 3D models of All Terrain Vehicles (ATVs) in SolidWorks using a combination of virtual reality software and auxiliary mechanical measurements.
+- Conducted simulations in SAMMIE CAD to ensure simulated child subjects met all anthropometric requirements needed to effectively operate an ATV in the real world.
+
+**Research Intern, mm-wave Tuning Device, SLAC National Accelerator Laboratory, Menlo Park, California** *(June 2022 - August 2022)
+- Designed an intuitive and adjustable device to tune mm-wave structures for the development of high frequency medical accelerators used in radiotherapy
+- Utilized image processing techniques to verify the type of impressions the tuning device created in mm-wave structures depending on the parameters used
+- Conducted a series of validation tests for my tuning device to correlate different types of impressions to specific frequency shifts of the resonant frequency using MATLAB
+
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
