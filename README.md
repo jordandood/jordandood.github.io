@@ -1,10 +1,11 @@
 # Controlled Environment Engineer
 
 #### Technical Skills
-- Controlled Environment Agriculture: Expertise in designing, managing, and optimizing hydroponic systems and growth chambers for   plant research.
-- Photosynthetic Gas Exchange: Proficient in operating LI-6800 systems for measuring photosynthesis, transpiration, and stomatal conductance.
+- Controlled Environment Agriculture: Expertise in designing, managing, and optimizing hydroponic systems and growth chambers for plant research.
+- Photosynthetic Gas Exchange: Well-versed in operating LI-6800 systems for measuring photosynthesis, transpiration, and stomatal conductance.
 - Programming Languages: Skilled in Python, MATLAB, and R for data analysis, automation, and modeling applications.
 - CAD & 3D Design: Experienced with SolidWorks, Onshape, Solid Edge, and Fusion 360 for mechanical design and prototyping.
+- Robotics & Automation: Proficient in designing, constructing, and programming autonomous systems for agricultural tasks
 
 ## Education					       		
 - M.S., Bioresource Engineering	| McGill University | November 2025	 			        		
@@ -13,7 +14,7 @@
 ## Controlled Environment Research
 **Biomass Production Lab, Optimizing Lettuce Growth in Controlled High-Humidity Environments, Montréal, Québec** *(September 2023 - August 2025)*
 - Led a study on the effects of light spectrum and air velocity on tipburn occurrence in hydroponically grown lettuce under elevated humidity conditions (>70% RH) (results to be published)
-- Designed, built, and optimized controlled-environment plant growth chambers to regulate temperature, humidity, and CO₂ concentration within ±5% of set values
+- Designed, built, and optimized controlled-environment plant growth chambers to automatically regulate temperature, humidity, and CO₂ concentration within ±5% of set values
 - Conducted in situ photosynthetic gas exchange measurements, capturing real-time physiological responses of plants
 - Utilized R and Python to streamline data processing and perform statistical analyses for comprehensive evaluation of plant response
 
@@ -21,7 +22,7 @@
 - Designed, fabricated, and tested an automated nutrient management system for a recirculating hydroponic setup, maintaining nutrient concentrations within ±5% of user-defined setpoints.
 - Engineered a two-axis linear motion system to support an array of nutrient sensors, enabling precise solution monitoring
 - Performed system validation tests with romaine lettuce to confirm accurate maintenance of macronutrient levels and plant response
-- [View the Final Poster](assets/final_poster.png)
+- [View the final poster](assets/final_poster.png)
 
 ## Prior Research Experience
 **Research Assistant, Improving Child Safety in ATVs, Safe Ag Lab, Davis, California** *(April 2021 - September 2023)*
@@ -43,6 +44,7 @@
 - Programmed and optimized the function of individual actuators to ensure precise and reliable motion control
 - Developed and implemented control logic for autonomous movement
 - Conducted rigorous performance testing to validate system functionality
+- [View the final poster](assets/berre_poster.pdf)
 
 **Space and Satellite Systems** *(September 2021 - June 2023)*
 - Managed project timelines and budgets, ensuring alignment with NASA requirements and deliverables.
@@ -85,5 +87,12 @@
 <table>
   <tr>
     <td><img src="assets/hydroponic_recirculating.jpeg" width="300" style="border: 1px solid #ccc;"></td>
+  </tr>
+</table>
+
+**ASABE Student Robotics Competition - BERR-E**
+<table>
+  <tr>
+    <td><img src="assets/berr-e.jpg" width="300" style="border: 1px solid #ccc;"></td>
   </tr>
 </table>
