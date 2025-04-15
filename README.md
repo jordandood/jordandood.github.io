@@ -21,6 +21,7 @@
 - Designed, fabricated, and tested an automated nutrient management system for a recirculating hydroponic setup, maintaining nutrient concentrations within ±5% of user-defined setpoints.
 - Engineered a two-axis linear motion system to support an array of nutrient sensors, enabling precise solution monitoring
 - Performed system validation tests with romaine lettuce to confirm accurate maintenance of macronutrient levels and plant response
+- [View the Final Poster](assets/Final%20Poster%20-%20Team%20010.png)
 
 ## Prior Research Experience
 **Research Assistant, Improving Child Safety in ATVs, Safe Ag Lab, Davis, California** *(April 2021 - September 2023)*
@@ -45,7 +46,7 @@
 **L'SPACE Mission Concept Academy** *(January 2022 - May 2022)*
 - Coauthored a Preliminary Design Review structured around utilizing the volatiles present in the regolith of the Permanently Shadowed Regions (PSRs) on the Moon
 - Designed the science mission and payload instrumentation to find and characterize polar volatiles within the area surrounding the Amundsen crater
-- Final PDR
+- [Final PDR](assets/pdr.pdf)
 
 **7th Annual Biomedical Engineering Society Make-a-thon** *(January 2021)*
 - Collaborated with a team of 6 to designed a winning medical device to keep track of medication dosing using a gumball-like mechanism, incorporating both manufacturability and functionality. 
