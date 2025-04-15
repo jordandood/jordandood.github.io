@@ -21,7 +21,7 @@
 - Designed, fabricated, and tested an automated nutrient management system for a recirculating hydroponic setup, maintaining nutrient concentrations within ±5% of user-defined setpoints.
 - Engineered a two-axis linear motion system to support an array of nutrient sensors, enabling precise solution monitoring
 - Performed system validation tests with romaine lettuce to confirm accurate maintenance of macronutrient levels and plant response
-- [View the Final Poster](assets/Final%20Poster%20-%20Team%20010.png)
+- [View the Final Poster](assets/final_poster.png)
 
 ## Prior Research Experience
 **Research Assistant, Improving Child Safety in ATVs, Safe Ag Lab, Davis, California** *(April 2021 - September 2023)*
