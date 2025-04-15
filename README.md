@@ -66,11 +66,17 @@
  3. Wong, J., Malikzada, F., Butcher, R., Buddhamatya, N., “Part Preparation and Cable Routing within a CubeSat”, 32nd Annual
  Undergraduate Research Conference. University of California, Davis, 2021.
 
-## Gallery of my work
+## Gallery
 **Optimizing Lettuce Growth in Controlled High-Humidity Environments**
-
+<table>
+  <tr>
+    <td><img src="assets/lettuce.jpg" width="300" style="border: 1px solid #ccc;"></td>
+  </tr>
+</table>
 
 **Automated Nutrient Management System**
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <img src="assets/hydroponic_recirculating.jpeg" style="width: 45%; height: 50%;" />
-</div>
+<table>
+  <tr>
+    <td><img src="assets/hydroponic_recirculating.jpeg" width="300" style="border: 1px solid #ccc;"></td>
+  </tr>
+</table>
