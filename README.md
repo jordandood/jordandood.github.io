@@ -45,3 +45,5 @@
 **L'SPACE Mission Concept Academy** *(January 2022 - May 2022)*
 - Coauthored a Preliminary Design Review structured around utilizing the volatiles present in the regolith of the Permanently Shadowed Regions (PSRs) on the Moon
 - Designed the science mission and payload instrumentation to find and characterize polar volatiles within the area surrounding the Amundsen crater
+- Final PDR
+- <embed src="https://jordandood.github.io/pdr.pdf" type="application/pdf" />
