@@ -1,6 +1,6 @@
 # Controlled Environment Engineer
 
-#### Technical Skills
+## Technical Skills
 - Controlled Environment Agriculture: Expertise in designing, managing, and optimizing hydroponic systems and growth chambers for plant research.
 - Photosynthetic Gas Exchange: Well-versed in operating LI-6800 systems for measuring photosynthesis, transpiration, and stomatal conductance.
 - Programming Languages: Skilled in Python, MATLAB, and R for data analysis, automation, and modeling applications.
@@ -8,7 +8,7 @@
 - Robotics & Automation: Proficient in designing, constructing, and programming autonomous systems for agricultural tasks
 
 ## Education					       		
-- M.S., Bioresource Engineering	| McGill University (_November 2025_)	 			        		
+- M.S., Bioresource        Engineering	| McGill University (_November 2025_)	 			        		
 - B.S., Biological Systems Engineering | University of California, Davis (_June 2023_)
 
 ## Controlled Environment Research
