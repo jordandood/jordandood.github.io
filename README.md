@@ -10,19 +10,24 @@
 - M.S.c, Bioresource Engineering	| McGill University (_November 2025_)	 			        		
 - B.S., Biological Systems Engineering | University of California, Davis (_June 2023_)
 
-# Controlled Environment Research
-**Biomass Production Lab, Optimizing Lettuce Growth in Controlled High-Humidity Environments, Montréal**
+## Controlled Environment Research
+**Biomass Production Lab, Optimizing Lettuce Growth in Controlled High-Humidity Environments, Montréal, Québec**
 - Led a study on the effects of light spectrum and air velocity on tipburn occurrence in hydroponically grown lettuce under elevated humidity conditions (>70% RH) (results to be published)
 - Designed, built, and optimized controlled-environment plant growth chambers to regulate temperature, humidity, and CO₂ concentration within ±5% of set values
 - Conducted in situ photosynthetic gas exchange measurements, capturing real-time physiological responses of plants
 - Utilized R and Python to streamline data processing and perform statistical analyses for comprehensive evaluation of plant response
 
+**Automated Nutrient Management System for Hydroponics, Davis, California** *(September 2022 - June 2023)*
+- Designed, fabricated, and tested an automated nutrient management system for a recirculating hydroponic setup, maintaining nutrient concentrations within ±5% of user-defined setpoints.
+- Engineered a two-axis linear motion system to support an array of nutrient sensors, enabling precise solution monitoring
+- Performed system validation tests with romaine lettuce to confirm accurate maintenance of macronutrient levels and plant response
 
-
-## Prior Engineering Experience
+## Prior Research Experience
 **Research Assistant, Improving Child Safety in ATVs, Safe Ag Lab, Davis, California** *(April 2021 - September 2023)*
-- Created accurate 3D models of All Terrain Vehicles (ATVs) in SolidWorks using a combination of virtual reality software and auxiliary mechanical measurements.
-- Conducted simulations in SAMMIE CAD to ensure simulated child subjects met all anthropometric requirements needed to effectively operate an ATV in the real world.
+- Co-authored a study assessing the suitability of child-sized all-terrain vehicles (ATVs) for children (results pending publication)
+- Employed Python to analyze large datasets, including field of vision, anthropometry, and strength measurements, to comprehensively evaluate the suitability of child-sized all-terrain vehicles (ATVs) for children.
+- Developed accurate 3D models of ATVs in SolidWorks, integrating virtual reality software and mechanical measurements 
+- Performed simulations in SAMMIE CAD to ensure simulated child subjects met all anthropometric requirements for effective ATV operation
 
 **Research Intern, mm-wave Tuning Device, SLAC National Accelerator Laboratory, Menlo Park, California** *(June 2022 - August 2022)
 - Designed an intuitive and adjustable device to tune mm-wave structures for the development of high frequency medical accelerators used in radiotherapy
