@@ -8,10 +8,8 @@
 - Robotics & Automation: Proficient in designing, constructing, and programming autonomous systems for agricultural tasks
 
 ## Education					       		
-<div style="text-align: center;">
-  <p><strong>M.S., Bioresource Engineering</strong>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;McGill University&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<em>November 2025</em></p>
-  <p><strong>B.S., Biological Systems Engineering</strong>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;University of California, Davis&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<em>June 2023</em></p>
-</div>
+- M.S., Bioresource Engineering	| McGill University (_November 2025_)	 			        		
+- B.S., Biological Systems Engineering | University of California, Davis (_June 2023_)
 
 ## Controlled Environment Research
 **Biomass Production Lab, Optimizing Lettuce Growth in Controlled High-Humidity Environments, Montréal, Québec** *(September 2023 - August 2025)*
