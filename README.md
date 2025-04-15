@@ -7,8 +7,8 @@
 - CAD & 3D Design: Experienced with SolidWorks, Onshape, Solid Edge, and Fusion 360 for mechanical design and prototyping.
 
 ## Education					       		
-- M.S.c, Bioresource Engineering	| McGill University (_November 2025_)	 			        		
-- B.S., Biological Systems Engineering | University of California, Davis (_June 2023_)
+- M.S., Bioresource Engineering	| McGill University | November 2025	 			        		
+- B.S., Biological Systems Engineering | University of California, Davis | June 2023
 
 ## Controlled Environment Research
 **Biomass Production Lab, Optimizing Lettuce Growth in Controlled High-Humidity Environments, Montréal, Québec** *(September 2023 - August 2025)*
@@ -37,6 +37,13 @@
 - [2022 SULI Oral Presentation - mm-Wave Cavity Design](https://www.youtube.com/watch?v=b_AH3uw2jWA&ab_channel=JordanWong)
 
 ## Projects
+
+**ASABE Student Robotics Competition - BERR-E** *(July 2024)*
+- Designed, constructed, and tested a robotic system for autonomous strawberry leaf trimming in a simulated environment
+- Programmed and optimized the function of individual actuators to ensure precise and reliable motion control
+- Developed and implemented control logic for autonomous movement
+- Conducted rigorous performance testing to validate system functionality
+
 **Space and Satellite Systems** *(September 2021 - June 2023)*
 - Managed project timelines and budgets, ensuring alignment with NASA requirements and deliverables.
 - Authored Verification & Validation (V&V) and Interface Control Documents (ICDs) to guarantee quality assurance and integration of satellite components.
