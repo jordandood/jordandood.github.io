@@ -1,8 +1,10 @@
 # Controlled Environment Engineer
 
 #### Technical Skills
-## Coding Languages: Python, MATLAB, R
-## CAD Programs: SolidWorks, Onshape, Solid Edge, Fusion 360
+- Hydroponic cultivation of lettuce
+- Photosynthetic measurements (LI-6800) 
+- Coding Languages: Python, MATLAB, R
+- CAD Programs: SolidWorks, Onshape, Solid Edge, Fusion 360
 
 ## Education					       		
 - M.S.c, Bioresource Engineering	| McGill University (_November 2025_)	 			        		
