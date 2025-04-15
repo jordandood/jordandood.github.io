@@ -29,6 +29,11 @@
 - Developed accurate 3D models of ATVs in SolidWorks, integrating virtual reality software and mechanical measurements 
 - Performed simulations in SAMMIE CAD to ensure simulated child subjects met all anthropometric requirements for effective ATV operation
 
+<p float="left">
+  <img src="assets/human eye view.jpeg" width="100" />
+  <img src="/assets/sitting posture.png" width="100" /> 
+</p>
+
 **Research Intern, mm-wave Tuning Device, SLAC National Accelerator Laboratory, Menlo Park, California** *(June 2022 - August 2022)*
 - Designed an intuitive and adjustable device to tune mm-wave structures for the development of high frequency medical accelerators used in radiotherapy
 - Utilized image processing techniques to verify the type of impressions the tuning device created in mm-wave structures depending on the parameters used
