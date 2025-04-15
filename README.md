@@ -56,3 +56,11 @@
 - **Fonds de recherche du Québec - Nature et technologies, Master’s Training Scholarships Recipient** *(2023)*
 - **American Society of Agricultural and Biological Engineers, 2024 Annual International Meeting Student Presentation Award** *(2024)*
 
+## Publications and Posters
+ 1. E.C Snively, M.A.K. Othman, A. Gabriel, J. Wong, A. Sy, E.A. Nanni, “Prototyping of distributed coupling accelerators at mm-wave
+ frequencies.” 2022 Advanced Accelerator Concepts Workshop.
+ 2. Araujo, Guilherme De Moura, Khorsandi, F., Fathallah, F., Kabakiko, S., Wong, J., "Field of Vision: How Do Youth Perceive the
+ Environment When Riding Agricultural All-Terrain Vehicles?" 2022 ASABE Annual International Meeting. American
+ Society of Agricultural and Biological Engineers, 2022.
+ 3. Wong, J., Malikzada, F., Butcher, R., Buddhamatya, N., “Part Preparation and Cable Routing within a CubeSat”, 32nd Annual
+ Undergraduate Research Conference. University of California, Davis, 2021.
