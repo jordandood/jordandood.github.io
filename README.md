@@ -52,16 +52,17 @@
 - Authored Verification & Validation (V&V) and Interface Control Documents (ICDs) to guarantee quality assurance and integration of satellite components.
 - Collaborated on satellite manufacturing, prototyping, and assembly, maintaining thorough process documentation
 - Presented project progress at the 2021 UC Davis Undergraduate Research Conference, representing the Parts Preparation and Cable Harnessing team.
+     - [URC Poster](assets/parts_prep.png)
 
 **L'SPACE Mission Concept Academy** *(January 2022 - May 2022)*
 - Coauthored a Preliminary Design Review structured around utilizing the volatiles present in the regolith of the Permanently Shadowed Regions (PSRs) on the Moon
-- Designed the science mission and payload instrumentation to find and characterize polar volatiles within the area surrounding the Amundsen crater
+- Planned the science mission and payload instrumentation to find and characterize polar volatiles within the area surrounding the Amundsen crater
 - [Final PDR](assets/pdr.pdf)
 
 **7th Annual Biomedical Engineering Society Make-a-thon** *(January 2021)*
 - Collaborated with a team of 6 to designed a winning medical device to keep track of medication dosing using a gumball-like mechanism, incorporating both manufacturability and functionality. 
-- Designed the walls to connect easily with each other using a Lego-type design, allowing each wall to be easily laser cut as well as the entire assembly of the product to be made by hand in under 15 minutes with basic tools.
-- Incorporated a dial mechanism with the days of the week printed onto it that would turn every time a button was pressed, with a window on the side of the device to allow the user to see the current day of the week.
+- Designed the walls in Solidworks to interface using a Lego-type design, facilitating ease of manufacturability and assembly
+- Incorporated a dial mechanism in Solidworks to track days of the week upon each daily use of the device 
 
 ## Awards
 - **Fonds de recherche du Québec - Nature et technologies, Master’s Training Scholarships Recipient** *(2023)*
