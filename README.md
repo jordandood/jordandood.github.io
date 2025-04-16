@@ -99,6 +99,13 @@
   </tr>
 </table>
 
+**mm-wave Tuning Device**
+<table>
+  <tr>
+    <td><img src="assets/impression_device.png" width="300" style="border: 1px solid #ccc;"></td>
+  </tr>
+</table>
+
 **7th Annual Biomedical Engineering Society Make-a-thon**
 <table>
   <tr>
