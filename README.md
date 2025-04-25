@@ -1,4 +1,4 @@
-# Controlled Environment Engineer
+# Controlled Environment Specialist
 
 ## Technical Skills
 - Controlled Environment Agriculture: Expertise in designing, managing, and optimizing hydroponic systems and growth chambers for plant research.
