@@ -1,5 +1,7 @@
 # Controlled Environment Specialist
 
+[LinkedIn](https://www.linkedin.com/in/jordanwong3/)
+
 ## Technical Skills
 - Controlled Environment Agriculture: Expertise in designing, managing, and optimizing hydroponic systems and growth chambers for plant research.
 - Photosynthetic Gas Exchange: Well-versed in operating LI-6800 systems for measuring photosynthesis, transpiration, and stomatal conductance.
