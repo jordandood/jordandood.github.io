@@ -5,3 +5,6 @@ show_downloads: false
 theme: jekyll-theme-minimal
 imagesurl: "/jordandood.github.io/assets/"
 
+navigation:
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/jordanwong3/
