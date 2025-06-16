@@ -1,4 +1,4 @@
-# Controlled Environment Specialist
+# Agricultural Engineer
 
 [LinkedIn](https://www.linkedin.com/in/jordanwong3/)
 
