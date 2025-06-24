@@ -1,5 +1,6 @@
 # Agricultural Engineer
 
+Email: sangore11@gmail.com
 [LinkedIn](https://www.linkedin.com/in/jordanwong3/)
 
 ## Technical Skills
