@@ -1,7 +1,6 @@
 # Agricultural Engineer
 
-Email: sangore11@gmail.com
-[LinkedIn](https://www.linkedin.com/in/jordanwong3/)
+Email: sangore11@gmail.com, [LinkedIn](https://www.linkedin.com/in/jordanwong3/)
 
 ## Technical Skills
 - Controlled Environment Agriculture: Expertise in designing, managing, and optimizing hydroponic systems and growth chambers for plant research.
