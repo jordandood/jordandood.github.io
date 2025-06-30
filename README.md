@@ -29,7 +29,7 @@ Email: sangore11@gmail.com, [LinkedIn](https://www.linkedin.com/in/jordanwong3/)
 
 ## Prior Research Experience
 **Research Assistant, Improving Child Safety in ATVs, Safe Ag Lab, Davis, California** *(April 2021 - September 2023)*
-- Co-authored a study assessing the suitability of child-sized all-terrain vehicles (ATVs) for children (results pending publication)
+- Co-authored a study assessing the suitability of child-sized all-terrain vehicles (ATVs) for children
 - Employed pandas library in Python to analyze large datasets, including field of vision, anthropometry, and strength measurements to comprehensively evaluate the suitability of child-sized all-terrain vehicles (ATVs) for children.
 - Developed accurate 3D models of ATVs in SolidWorks, integrating virtual reality software and mechanical measurements 
 - Performed simulations in SAMMIE CAD to ensure simulated child subjects met all anthropometric requirements for effective ATV operation
@@ -71,12 +71,13 @@ Email: sangore11@gmail.com, [LinkedIn](https://www.linkedin.com/in/jordanwong3/)
 - **American Society of Agricultural and Biological Engineers, 2024 Annual International Meeting Student Presentation Award** *(2024)*
 
 ## Publications and Posters
- 1. E.C Snively, M.A.K. Othman, A. Gabriel, J. Wong, A. Sy, E.A. Nanni, “Prototyping of distributed coupling accelerators at mm-wave
- frequencies.” 2022 Advanced Accelerator Concepts Workshop.
- 2. Araujo, Guilherme De Moura, Khorsandi, F., Fathallah, F., Kabakiko, S., Wong, J., "Field of Vision: How Do Youth Perceive the
+ 1. Khorsandi, F., Wong, J., Araujo, G. de Moura Araujo. (2025). Is it safe for children to ride youth-sized all-terrain vehicles?. Journal of Safety Research, 94, 216-228. 10.1016/j.jsr.2025.06.006.  
+ 2. E.C Snively, M.A.K. Othman, A. Gabriel, J. Wong, A. Sy, E.A. Nanni, “Prototyping of distributed coupling accelerators at mm-wave
+ frequencies.” 2022 Advanced Accelerator Concepts Workshop. 
+ 3. Araujo, Guilherme De Moura, Khorsandi, F., Fathallah, F., Kabakiko, S., Wong, J., "Field of Vision: How Do Youth Perceive the
  Environment When Riding Agricultural All-Terrain Vehicles?" 2022 ASABE Annual International Meeting. American
  Society of Agricultural and Biological Engineers, 2022.
- 3. Wong, J., Malikzada, F., Butcher, R., Buddhamatya, N., “Part Preparation and Cable Routing within a CubeSat”, 32nd Annual
+ 4. Wong, J., Malikzada, F., Butcher, R., Buddhamatya, N., “Part Preparation and Cable Routing within a CubeSat”, 32nd Annual
  Undergraduate Research Conference. University of California, Davis, 2021.
 
 ## Gallery
