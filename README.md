@@ -69,7 +69,7 @@ Email: sangore11@gmail.com, [LinkedIn](https://www.linkedin.com/in/jordanwong3/)
 - [Final PDR](assets/pdr.pdf)
 
 **7th Annual Biomedical Engineering Society Make-a-thon** *(January 2021)*
-- Collaborated with a team of 6 to designed a winning medical device to keep track of medication dosing using a gumball-like mechanism, incorporating both manufacturability and functionality. 
+- Collaborated with a team of 6 to design a winning medical device to keep track of medication dosing using a gumball-like mechanism, incorporating both manufacturability and functionality. 
 - Designed the walls in Solidworks to interface using a Lego-type design, facilitating ease of manufacturability and assembly.
 - Incorporated a dial mechanism in Solidworks to track days of the week upon each daily use of the device. 
 
