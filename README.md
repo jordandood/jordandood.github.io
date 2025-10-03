@@ -12,6 +12,7 @@ Email: sangore11@gmail.com, [LinkedIn](https://www.linkedin.com/in/jordanwong3/)
 ## Education					       		
 - M.S., Bioresource        Engineering	| McGill University (_August 2025_)	 			        		
 - B.S., Biological Systems Engineering | University of California, Davis (_June 2023_)
+- Engineer-in-Training | Board of Professional Engineers, Land Surveyors, and Geologists (_September 2025_)
 
 ## Controlled Environment Research
 **Biomass Production Lab, Optimizing Lettuce Growth in Controlled High-Humidity Environments, Montréal, Québec** *(September 2023 - August 2025)*
