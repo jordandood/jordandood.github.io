@@ -60,6 +60,7 @@ Email: sangore11@gmail.com, [LinkedIn](https://www.linkedin.com/in/jordanwong3/)
 - Designed, constructed, and tested a robotic system for autonomous egg collection and sorting in a simulated environment.
 - Implemented autonomous movement and control of the robot using Robotic Operating Software 2 (ROS2)
 - Supervised development of the various subsystems for the collection, sorting, and unloading of eggs
+- [Video of it navigating the course](assets/OEUF_in_action.mp4)
 
 **ASABE Student Robotics Competition - BERR-E** *(July 2024)*
 - Designed, constructed, and tested a robotic system for autonomous strawberry leaf trimming in a simulated environment.
@@ -109,13 +110,6 @@ Email: sangore11@gmail.com, [LinkedIn](https://www.linkedin.com/in/jordanwong3/)
 <table>
   <tr>
     <td><img src="assets/berr-e.jpg" width="300" style="border: 1px solid #ccc;"></td>
-  </tr>
-</table>
-
-**ASABE Student Robotics Competition 2025 - OEUF**
-<table>
-  <tr>
-    <td><img src="assets/OEUF_in_action.mp4" width="300" style="border: 1px solid #ccc;"></td>
   </tr>
 </table>
 
