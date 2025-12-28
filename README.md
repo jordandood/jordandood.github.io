@@ -7,12 +7,24 @@ Email: sangore11@gmail.com, [LinkedIn](https://www.linkedin.com/in/jordanwong3/)
 - CAD & 3D Design: Experienced with SolidWorks, Onshape, Solid Edge, and Fusion 360 for mechanical design and prototyping.
 - Robotics & Automation: Proficient in designing, constructing, and programming autonomous systems for agricultural tasks.
 - Programming Languages: Skilled in Python, MATLAB, and R for data analysis, automation, and modeling applications.
-     - Libraries: pandas, ggplot, fitaci, scipy, numpy 
+     - Libraries: pandas, ggplot, fitaci, scipy, numpy
+- Technical Writing
 
 ## Education					       		
 - M.S., Bioresource        Engineering	| McGill University (_August 2025_)	 			        		
 - B.S., Biological Systems Engineering | University of California, Davis (_June 2023_)
 - Engineer-in-Training | Board of Professional Engineers, Land Surveyors, and Geologists (_September 2025_)
+
+## Publications/Posters/Writing
+ 1. Khorsandi, F., Wong, J., Araujo, G. de Moura Araujo. (2025). Is it safe for children to ride youth-sized all-terrain vehicles?. Journal of Safety Research, 94, 216-228. [https://doi.org/10.1016/j.jsr.2025.06.006](https://doi.org/10.1016/j.jsr.2025.06.006).
+ 2. [McGill University Thesis, August 2025](assets/Jordan_Thesis_Final.pdf)
+ 3. E.C Snively, M.A.K. Othman, A. Gabriel, J. Wong, A. Sy, E.A. Nanni, “Prototyping of distributed coupling accelerators at mm-wave
+ frequencies.” 2022 Advanced Accelerator Concepts Workshop. 
+ 4. Araujo, Guilherme De Moura, Khorsandi, F., Fathallah, F., Kabakiko, S., Wong, J., "Field of Vision: How Do Youth Perceive the
+ Environment When Riding Agricultural All-Terrain Vehicles?" 2022 ASABE Annual International Meeting. American
+ Society of Agricultural and Biological Engineers, 2022.
+ 5. Wong, J., Malikzada, F., Butcher, R., Buddhamatya, N., “Part Preparation and Cable Routing within a CubeSat”, 32nd Annual
+ Undergraduate Research Conference. University of California, Davis, 2021.
 
 ## Controlled Environment Research
 **Biomass Production Lab, Optimizing Lettuce Growth in Controlled High-Humidity Environments, Montréal, Québec** *(September 2023 - August 2025)*
@@ -76,16 +88,7 @@ Email: sangore11@gmail.com, [LinkedIn](https://www.linkedin.com/in/jordanwong3/)
 ## Awards
 - **Fonds de recherche du Québec - Nature et technologies, Master’s Training Scholarships Recipient** *(2023)*
 - **American Society of Agricultural and Biological Engineers, 2024 Annual International Meeting Student Presentation Award** *(2024)*
-
-## Publications and Posters
- 1. Khorsandi, F., Wong, J., Araujo, G. de Moura Araujo. (2025). Is it safe for children to ride youth-sized all-terrain vehicles?. Journal of Safety Research, 94, 216-228. [https://doi.org/10.1016/j.jsr.2025.06.006](https://doi.org/10.1016/j.jsr.2025.06.006).  
- 2. E.C Snively, M.A.K. Othman, A. Gabriel, J. Wong, A. Sy, E.A. Nanni, “Prototyping of distributed coupling accelerators at mm-wave
- frequencies.” 2022 Advanced Accelerator Concepts Workshop. 
- 3. Araujo, Guilherme De Moura, Khorsandi, F., Fathallah, F., Kabakiko, S., Wong, J., "Field of Vision: How Do Youth Perceive the
- Environment When Riding Agricultural All-Terrain Vehicles?" 2022 ASABE Annual International Meeting. American
- Society of Agricultural and Biological Engineers, 2022.
- 4. Wong, J., Malikzada, F., Butcher, R., Buddhamatya, N., “Part Preparation and Cable Routing within a CubeSat”, 32nd Annual
- Undergraduate Research Conference. University of California, Davis, 2021.
+- **American Society of Agricultural and Biological Engineers, 2024 Annual International Meeting Student Presentation Award** *(2025)*
 
 ## Gallery
 **Optimizing Lettuce Growth in Controlled High-Humidity Environments**
