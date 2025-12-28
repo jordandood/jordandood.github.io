@@ -112,6 +112,13 @@ Email: sangore11@gmail.com, [LinkedIn](https://www.linkedin.com/in/jordanwong3/)
   </tr>
 </table>
 
+**ASABE Student Robotics Competition 2025 - OEUF**
+<table>
+  <tr>
+    <td><img src="assets/OEUF_in_action.mp4" width="300" style="border: 1px solid #ccc;"></td>
+  </tr>
+</table>
+
 **mm-wave Tuning Device**
 <table>
   <tr>
