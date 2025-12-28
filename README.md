@@ -88,7 +88,7 @@ Email: sangore11@gmail.com, [LinkedIn](https://www.linkedin.com/in/jordanwong3/)
 ## Awards
 - **Fonds de recherche du Québec - Nature et technologies, Master’s Training Scholarships Recipient** *(2023)*
 - **American Society of Agricultural and Biological Engineers, 2024 Annual International Meeting Student Presentation Award** *(2024)*
-- **American Society of Agricultural and Biological Engineers, 2024 Annual International Meeting Student Presentation Award** *(2025)*
+- **American Society of Agricultural and Biological Engineers, 2025 Annual International Meeting Student Presentation Award** *(2025)*
 
 ## Gallery
 **Optimizing Lettuce Growth in Controlled High-Humidity Environments**
