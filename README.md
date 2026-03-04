@@ -2,7 +2,7 @@
 Email: sangore11@gmail.com, [LinkedIn](https://www.linkedin.com/in/jordanwong3/)
 
 ## Technical Skills
-- CAD & 3D Design: Experienced with SolidWorks, Onshape, Solid Edge, and Fusion 360 for mechanical design and prototyping.
+- CAD & 3D Design: Experienced with SolidWorks, Onshape, Solid Edge, and Fusion 360 for mechanical design and prototyping. Basic proficiency in AutoCAD and Revit.
 - Robotics & Automation: Proficient in designing, constructing, and programming autonomous systems for agricultural tasks.
 - Controlled Environment Agriculture: Expertise in designing, managing, and optimizing hydroponic systems and growth chambers for plant research.
 - Photosynthetic Gas Exchange: Well-versed in operating LI-6800 systems for measuring photosynthesis, transpiration, and stomatal conductance.
@@ -89,9 +89,9 @@ Email: sangore11@gmail.com, [LinkedIn](https://www.linkedin.com/in/jordanwong3/)
 - Incorporated a dial mechanism in Solidworks to track days of the week upon each daily use of the device. 
 
 ## Awards
+- **American Society of Agricultural and Biological Engineers, 2024 Annual International Meeting Student Presentation Award** *(2025)*
+- **American Society of Agricultural and Biological Engineers, 2025 Annual International Meeting Student Presentation Award** *(2024)*
 - **Fonds de recherche du Québec - Nature et technologies, Master’s Training Scholarships Recipient** *(2023)*
-- **American Society of Agricultural and Biological Engineers, 2024 Annual International Meeting Student Presentation Award** *(2024)*
-- **American Society of Agricultural and Biological Engineers, 2025 Annual International Meeting Student Presentation Award** *(2025)*
 
 ## Gallery
 **Optimizing Lettuce Growth in Controlled High-Humidity Environments**
@@ -105,6 +105,13 @@ Email: sangore11@gmail.com, [LinkedIn](https://www.linkedin.com/in/jordanwong3/)
 <table>
   <tr>
     <td><img src="assets/hydroponic_recirculating.jpeg" width="300" style="border: 1px solid #ccc;"></td>
+  </tr>
+</table>
+
+**ASABE Student Robotics Competition 2025 - OEUF**
+<table>
+  <tr>
+    <td><img src="assets/oeuf.jpg" width="300" style="border: 1px solid #ccc;"></td>
   </tr>
 </table>
 
