@@ -1,11 +1,11 @@
-# Agricultural Engineer; EIT
+# Agricultural/Mechanical Engineer; EIT
 Email: sangore11@gmail.com, [LinkedIn](https://www.linkedin.com/in/jordanwong3/)
 
 ## Technical Skills
-- Controlled Environment Agriculture: Expertise in designing, managing, and optimizing hydroponic systems and growth chambers for plant research.
-- Photosynthetic Gas Exchange: Well-versed in operating LI-6800 systems for measuring photosynthesis, transpiration, and stomatal conductance.
 - CAD & 3D Design: Experienced with SolidWorks, Onshape, Solid Edge, and Fusion 360 for mechanical design and prototyping.
 - Robotics & Automation: Proficient in designing, constructing, and programming autonomous systems for agricultural tasks.
+- Controlled Environment Agriculture: Expertise in designing, managing, and optimizing hydroponic systems and growth chambers for plant research.
+- Photosynthetic Gas Exchange: Well-versed in operating LI-6800 systems for measuring photosynthesis, transpiration, and stomatal conductance.
 - Programming Languages: Skilled in Python, MATLAB, and R for data analysis, automation, and modeling applications.
      - Libraries: pandas, ggplot, fitaci, scipy, numpy
 - Technical Writing
@@ -26,11 +26,12 @@ Email: sangore11@gmail.com, [LinkedIn](https://www.linkedin.com/in/jordanwong3/)
  5. Wong, J., Malikzada, F., Butcher, R., Buddhamatya, N., “Part Preparation and Cable Routing within a CubeSat”, 32nd Annual
  Undergraduate Research Conference. University of California, Davis, 2021.
 
-## Controlled Environment Research
+## Research Experience
 **Biomass Production Lab, Optimizing Lettuce Growth in Controlled High-Humidity Environments, Montréal, Québec** *(September 2023 - August 2025)*
-- Led a study on the effects of light spectrum and air velocity on tipburn occurrence in hydroponically grown lettuce under elevated humidity conditions (>70% relative humidity) (results to be published).
+- Led a multidisiplinary study on the effects of light spectrum and air velocity on tipburn occurrence in hydroponically grown lettuce under elevated humidity conditions (>70% relative humidity) 
 - Designed, built, and optimized controlled-environment plant growth chambers to automatically regulate temperature, humidity, and CO₂ concentration within ±5% of set values.
 - Coordinated scheduling of environmental control, irrigation systems, and plant nutrition programs throughout two years of full thirty day growth cycles of romaine lettuce.
+- Optimized airflow distribution to plants by using COMSOL to simulate velocity profiles from an air delivery duct system
 - Conducted pest/disease monitoring and implemented corrective actions as needed.
 - Developed rigorous phenotypical and chemical standard operating procedures (SOPs) to characterize 16 different plant response traits and for growth room operation.
 - Applied a data-driven approach using R and Python to optimize crop production and evaluate plant responses through statistical analysis.
@@ -41,7 +42,6 @@ Email: sangore11@gmail.com, [LinkedIn](https://www.linkedin.com/in/jordanwong3/)
 - Validated system by growing romaine lettuce to confirm accurate maintenance of macronutrient levels and plant response.
 - [View the final poster](assets/final_poster.png)
 
-## Prior Research Experience
 **Research Assistant, Improving Child Safety in ATVs, Safe Ag Lab, Davis, California** *(April 2021 - September 2023)*
 - Co-authored a study assessing the suitability of child-sized all-terrain vehicles (ATVs) for children.
 - Employed pandas library in Python to analyze large datasets, including field of vision, anthropometry, and strength measurements to comprehensively evaluate the suitability of child-sized all-terrain vehicles (ATVs) for children.
@@ -54,12 +54,13 @@ Email: sangore11@gmail.com, [LinkedIn](https://www.linkedin.com/in/jordanwong3/)
 - Validated the tuning device by correlating different types of impressions to specific resonant frequency shifts using MATLAB.
 - [2022 SULI Oral Presentation - mm-Wave Cavity Design](https://www.youtube.com/watch?v=b_AH3uw2jWA&ab_channel=JordanWong)
 
-## Projects
+## Projects/Competitions
 
 **ASABE Student Robotics Competition - OEUF** *(July 2025)*
 - Designed, constructed, and tested a robotic system for autonomous egg collection and sorting in a simulated environment.
-- Implemented autonomous movement and control of the robot using Robotic Operating Software 2 (ROS2)
+- Implemented autonomous control loops and movement of the robot using Robotic Operating Software 2 (ROS2)
 - Supervised development of the various subsystems for the collection, sorting, and unloading of eggs
+- Selected and troubleshooted hardware based on compatibility with electric circuitry and competition specifications
 - [Video of it navigating the course](assets/OEUF_in_action.mp4)
 
 **ASABE Student Robotics Competition - BERR-E** *(July 2024)*
@@ -74,6 +75,7 @@ Email: sangore11@gmail.com, [LinkedIn](https://www.linkedin.com/in/jordanwong3/)
 - Authored Verification & Validation (V&V) and Interface Control Documents (ICDs) to guarantee quality assurance and integration of satellite components.
 - Collaborated on satellite manufacturing, prototyping, and assembly, maintaining thorough process documentation.
 - Presented project progress at the 2021 UC Davis Undergraduate Research Conference, representing the Parts Preparation and Cable Harnessing team.
+     - Used SolidWorks to obtain estimated wire lengths between satellite components 
      - [URC Poster](assets/parts_prep.png)
 
 **L'SPACE Mission Concept Academy** *(January 2022 - May 2022)*
