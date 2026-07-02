@@ -14,6 +14,7 @@ Email: sangore11@gmail.com, [LinkedIn](https://www.linkedin.com/in/jordanwong3/)
 - M.S., Bioresource        Engineering	| McGill University (_August 2025_)	 			        		
 - B.S., Biological Systems Engineering | University of California, Davis (_June 2023_)
 - Engineer-in-Training | Board of Professional Engineers, Land Surveyors, and Geologists (_September 2025_)
+- PE Mechanical: HVAC and Refrigeration Exam (_June 2026_)
 
 ## Publications/Posters/Writing
  1. Khorsandi, F., Wong, J., Araujo, G. de Moura Araujo. (2025). Is it safe for children to ride youth-sized all-terrain vehicles?. Journal of Safety Research, 94, 216-228. [https://doi.org/10.1016/j.jsr.2025.06.006](https://doi.org/10.1016/j.jsr.2025.06.006).
